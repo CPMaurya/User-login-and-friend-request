@@ -1,6 +1,5 @@
 # User-login-and-friend-request
 
-# Django Chat
 ## Installation API
 ```
 $ pip install virtualenv
