@@ -38,3 +38,6 @@ Give necessary inputs
 $ python3 manage.py runserver
 ```
 
+
+## Postman Collection
+https://www.postman.com/warped-zodiac-849134/workspace/public/collection/25073118-6dcc15db-a15b-4c8f-a78b-5afaba854389?action=share&creator=25073118
